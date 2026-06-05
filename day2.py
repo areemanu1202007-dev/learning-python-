@@ -1,2 +1,2 @@
-str2= str("enter a string")
+str2 = str("enter a string")
 print(str2)
